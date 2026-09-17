@@ -15,13 +15,14 @@ In this episode, we demonstrate how to build an automated, fully local image rec
 
 ## 📂 Included Files
 
-| File | Description |
-| :--- | :--- |
-| `Image01.py` | Complete Python script (chart generation, Base64 encoding, Ollama REST API call). |
-| `tutorial.ipynb` | Interactive Jupyter Notebook version for step-by-step execution. |
-| `Protocol_Ep01.pdf` | The compiled LaTeX protocol (theory, VLM architecture, mathematical background). |
-| `Kurve.jpg` | Example test image analyzed in the tutorial video. |
-| `requirements.txt` | List of required Python packages (`requests`, `matplotlib`, `yfinance`). |
+| File | Language | Description |
+| :--- | :---: | :--- |
+| `EPISODE01_English.py` | 🇬🇧 English | Main Python script with English comments & console output. |
+| `EPSISODE01_Deutsch.py` | 🇩🇪 German | Main Python script with German comments & console output. |
+| `EPISODE01_English.pdf` | 🇬🇧 English | The compiled LaTeX protocol in English (theory, VLM architecture, mathematical background). |
+| `EPISODE01_Deutsch.pdf` | 🇩🇪 German | The compiled LaTeX protocol in German (theory, VLM architecture, mathematical background). |
+| `Kurve.jpg` | — | Example test chart image analyzed in the tutorial video. |
+| `requirements.txt` | — | List of required Python dependencies (`requests`, `matplotlib`, `yfinance`). |
 
 ---
 
