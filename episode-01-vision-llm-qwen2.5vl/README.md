@@ -8,8 +8,7 @@ In this episode, we demonstrate how to build an automated, fully local image rec
 
 ## 📺 Watch the Episode
 
-[![YouTube Video]([https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube](https://youtu.be/w1eag_YLj7I))](https://youtube.com)
-
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/w1eag_YLj7I)
 
 ---
 
